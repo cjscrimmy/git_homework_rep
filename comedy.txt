@@ -5,3 +5,4 @@ Rhod Gilbert
 Peter Kay
 Daniel Sloss
 Bill Bailey
+Paul Whitehouse
